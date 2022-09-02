@@ -27,7 +27,8 @@ int main(){
 	cin>>s>>t;
 	cout<<BF(s,t,0)<<endl;
 	return 0;
- }
+}
+ 
 /*
 abaabaabeca
 abaabe
